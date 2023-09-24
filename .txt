@@ -1,0 +1,6 @@
+1.How to create a storybook project with React
+2.How to run the storybook server
+3.How to make a component with different stories
+4.How to make story within a story
+5.How to create a stories with args way
+6.How to use decorators
